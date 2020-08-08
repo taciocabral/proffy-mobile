@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     justifyContent: "center",
     alignItems: "center",
-    marginStart: 8
+    marginRight: 8
   },
   favorited: {
     backgroundColor: "#e33d3d"
